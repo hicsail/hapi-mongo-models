@@ -2,7 +2,7 @@
 
 const Path = require('path');
 const Hoek = require('hoek');
-const MongoModels = require('mongo-models');
+const MongoModels = require('hicsail-mongo-models');
 
 
 exports.MongoModels = MongoModels;

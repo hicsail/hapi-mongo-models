@@ -13,7 +13,7 @@ const stub = {
     MongoModels: {}
 };
 const ModelsPlugin = Proxyquire('..', {
-    'mongo-models': stub.MongoModels
+    'hicsail-mongo-models': stub.MongoModels
 });
 
 
