@@ -1,4 +1,4 @@
-# hapi-mongo-models
+# hicsail-hapi-mongo-models
 
 A hapi plugin for [`mongo-models`](https://github.com/jedireza/mongo-models).
 
